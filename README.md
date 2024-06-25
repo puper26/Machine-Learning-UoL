@@ -1,1 +1,2 @@
 In this project work, we will analyze three datasets. The first one: “Wholesale Customers” is used to conduct techniques for “Unsupervised Learning”. The second one: “Real Estate Valuation” is used to conduct techniques for “Regression”. The third one: “Red Wine Quality” is used to conduct techniques for “Classification”.
+<img width="1369" alt="Screenshot 2024-06-25 at 17 15 03" src="https://github.com/puper26/Machine-Learning-UoL/assets/47867006/eb8fc363-f3eb-4316-a0b0-e47d5710edb5">

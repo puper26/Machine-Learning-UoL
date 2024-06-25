@@ -1,0 +1,1 @@
+In this project work, we will analyze three datasets. The first one: “Wholesale Customers” is used to conduct techniques for “Unsupervised Learning”. The second one: “Real Estate Valuation” is used to conduct techniques for “Regression”. The third one: “Red Wine Quality” is used to conduct techniques for “Classification”.
